@@ -58,8 +58,9 @@ For Hardware:
 # Build Photos
 <img width="1280" height="1280" alt="6136612254661677586" src="https://github.com/user-attachments/assets/88c72554-43b4-431b-8e32-bcc569e9c00a" />
 
-
 ### Project Demo
+https://drive.google.com/file/d/1zYFjKAeLwxtH-Q-cashLjVVhKC0yXVHW/view?usp=drivesdk
+
 # Video
 
 https://drive.google.com/file/d/1U7cw4Z80DaK1I14iivNLC0ag78K4ff_z/view?usp=drivesdk
