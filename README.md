@@ -2,96 +2,71 @@
 
 
 
-# [Project Name] 🎯
+# Useless Chair 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: SR
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: RAFA - college of engineering munnar
+- Member 2: rafa - college of engineering munnar
+- Member 3: sradha - college of engineering munnar
 
 ### Project Description
-[2-3 lines about what your project does]
+This project is a smart automated chair that can be controlled through commands from a mobile application.
+When a person sits on the chair, they can use the app to send commands, allowing the chair to perform the required actions automatically.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+People often struggle to control or adjust a chair when they are already sitting on it. Our project makes the chair smart and remotely controllable through a mobile app, reducing the need for manual effort.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
-
+People often struggle to control or adjust a chair when they are already sitting on it. Our project makes the chair smart and remotely controllable through a mobile app, reducing the need for manual effort.
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- C/C++, Arduino Framework
+- Arduino Framework, Android Framework
+- BluetoothSerial, Arduino libraries
+- Arduino IDE, Android Studio
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- ESP32 development board, Motor driver module, Connecting wires
+- ESP32 with Bluetooth connectivity, Sensors for position and safety control
+- Jumper wires and connectors,  ultrasonic sensors
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+flutter pub get
 
 # Run
-[commands]
+flutter run
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
-
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+<img width="562" height="1280" alt="6136306315551248770 (1)" src="https://github.com/user-attachments/assets/c889a296-92a5-4993-ab7c-8302acfdd94c" />
 
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
+<img width="780" height="599" alt="Screenshot 2026-09-12 104724" src="https://github.com/user-attachments/assets/b568900e-ab33-43d4-a957-5eb2f129edab" />
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+<img width="1280" height="1280" alt="6136612254661677586" src="https://github.com/user-attachments/assets/88c72554-43b4-431b-8e32-bcc569e9c00a" />
 
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
 
-# Additional Demos
-[Add any extra demo materials/links]
+https://drive.google.com/file/d/1U7cw4Z80DaK1I14iivNLC0ag78K4ff_z/view?usp=drivesdk
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- rafa: hardware
+- sradha: software
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
